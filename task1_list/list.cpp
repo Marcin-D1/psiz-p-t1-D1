@@ -25,7 +25,8 @@ void addCar(List* pRoot, char* plateNum)
 
 void removeCar(List* pRoot, char* plateNum)
 {
-
+	// This function gets plate number of car to be removed
+	// you shoud find this node in list starting pRoot
 }
 void printAll(List* pRoot) {
 
